@@ -1,1 +1,1 @@
-# IBM Javascript Full-Stack development project
+# Javascript Full-Stack development project
